@@ -1,0 +1,11 @@
+Package: com.iGameGuardian.
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: Aqua Wu
+Filename: ./debs/CoCaiNit.deb
+Size: 283
+MD5sum: E3A0693F6AF10D42D0436C3A547B6F46
+Description: Thanh Bình Xinh Gái
+Name: ThanhBinhBEDE
+Author: Aqua Wu
