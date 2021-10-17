@@ -13,7 +13,7 @@ Author: Aqua Wu
 Package: com.binh.gamegod.igg
 Section: Utilities
 Installed-Size: 306976
-Maintainer: iGameGod
+Maintainer: Bình GAY
 Architecture: iphoneos-arm
 Version: 0.1.1
 Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
