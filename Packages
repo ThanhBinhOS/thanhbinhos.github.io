@@ -25,3 +25,21 @@ SHA256: 8b77c0becd650f970dc276c4e1bb509de767e2f4702d53824a60eba4eff56bd1
 Description: Be the god of your games. Find and edit scores, money, gems, and more in your favorite games.
 Name: iGameGod 
 Author: iGameGod
+
+Package: com.thanhbinhos.milkyway2
+Section: Tweaks
+Installed-Size: 376
+Maintainer: Thanh Bình
+Architecture: iphoneos-arm
+Version: 0.2.1
+Replaces: net.kenhtao.backgrounderaction13
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: jp.akusio.milkyway2
+Filename: ./debs/MilkyWay 2 Crack.deb
+Size: 84622
+MD5sum: 92cf982038946248c6e74e4edc5ccae1
+SHA1: 7ffc775999893e8e09e5c59be6065c6ff890f089
+SHA256: d4d2bfdc4417d1cd6367abf0eebfd7777d8928f8b8f31e462411767c61326562
+Description: Mở nhiều cửa sổ ứng dụng trên iOS 13.
+Name: MilkyWay 2 VN
+Author: akusio <akusio-report@neko2.net>
