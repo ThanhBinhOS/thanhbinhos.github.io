@@ -1,2 +1,2 @@
 # thanhbinhos.github.io
-Nguồn đc tạo ra bởi Bình GAY
+Nguồn được tạo ra bởi ThanhhBìnhIOS
