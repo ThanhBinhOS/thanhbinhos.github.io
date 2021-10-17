@@ -1,15 +1,3 @@
-Package: com.iGameGuardian.cocainit
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Utilities
-Maintainer: Aqua Wu
-Filename: ./debs/CoCaiNit.deb
-Size: 283
-MD5sum: E3A0693F6AF10D42D0436C3A547B6F46
-Description: ThanhBìnhOS
-Name: iGameGuardian
-Author: Aqua Wu
-
 Package: com.binh.gamegod.igg
 Section: Utilities
 Installed-Size: 306976
@@ -17,7 +5,7 @@ Maintainer: Bình GAY
 Architecture: iphoneos-arm
 Version: 0.1.1
 Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
-Filename: ./DEB/com.gamegod.igg_0.1.1_iphoneos-arm.deb
+Filename: ./debs/com.gamegod.igg_0.1.1_iphoneos-arm.deb
 Size: 64370650
 MD5sum: 9ddb174387e21c69eb52f094e52d9e84
 SHA1: 333b634c800c4af4c4a56b85daab45e94a12593b
@@ -42,4 +30,4 @@ SHA1: 7ffc775999893e8e09e5c59be6065c6ff890f089
 SHA256: d4d2bfdc4417d1cd6367abf0eebfd7777d8928f8b8f31e462411767c61326562
 Description: Mở nhiều cửa sổ ứng dụng trên iOS 13.
 Name: MilkyWay 2 VN
-Author: akusio <akusio-report@neko2.net>
+Author: akusio 
