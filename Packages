@@ -9,3 +9,19 @@ MD5sum: E3A0693F6AF10D42D0436C3A547B6F46
 Description: ThanhBìnhOS
 Name: iGameGuardian
 Author: Aqua Wu
+
+Package: com.binh.gamegod.igg
+Section: Utilities
+Installed-Size: 306976
+Maintainer: iGameGod
+Architecture: iphoneos-arm
+Version: 0.1.1
+Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Filename: ./DEB/com.gamegod.igg_0.1.1_iphoneos-arm.deb
+Size: 64370650
+MD5sum: 9ddb174387e21c69eb52f094e52d9e84
+SHA1: 333b634c800c4af4c4a56b85daab45e94a12593b
+SHA256: 8b77c0becd650f970dc276c4e1bb509de767e2f4702d53824a60eba4eff56bd1
+Description: Be the god of your games. Find and edit scores, money, gems, and more in your favorite games.
+Name: iGameGod 
+Author: iGameGod
