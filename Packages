@@ -31,20 +31,3 @@ SHA256: d4d2bfdc4417d1cd6367abf0eebfd7777d8928f8b8f31e462411767c61326562
 Description: Mở nhiều cửa sổ ứng dụng trên iOS 13.
 Name: MilkyWay 2 VN
 Author: akusio 
-
-Package: com.thanhbinh.memsearch
-Section: Utilities
-Installed-Size: 4000340
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Architecture: iphoneos-arm
-Version: 1.5
-Depends: firmware (>= 8.0)
-Filename: ./DEB/com.thanhbinh.memsearch_1.5_iphoneos-arm.deb
-Size: 4000340
-MD5sum: f0569ab377e06db358c2faf32deb7643
-SHA1: e89539257faafff01483027c36c8c5a6b9262ad8
-SHA256: 5c24638acf9cd7d65e753b9d651a12b1c63dd18595554caef39fa629d87c0c48
-Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
-Name: GameGemIOS
-dev: thanhbinhios
-Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
